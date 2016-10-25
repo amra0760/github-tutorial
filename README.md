@@ -59,8 +59,20 @@
 
 ---
 ## Repository Setup
+#### How To Make a Repository in c9
+1. First open up [c9.io](c9.io)  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/go%20to%20c9.PNG?_c9_id=livepreview14&_c9_host=https://ide.c9.io)  
+2. Then make sure that you're in the workspace directory (if your not sure then type in `cd ~/workspace`)  
+3. Now to make any type of directory you have to use the syntax: `mkdir (DirectoryName)`. Name the directory whatever you like but try to keep it short and simple.  
+4. **Now this step is very crucial. You have to get in to your directory before you intialize it**. You do this by typing `cd (DirectoryName)`.  
+5. Following that you can use `git status` to track the status of your directory and you will see an error coming up that says: "`fatal: Not a git repository (or any of the parent directories): .git`"".  
+6. Now what you want to do is intialize your directory and you do this by simply typing `git init`. Now you should see your directory's name with the word "master" in parenthesis nex to it. That means that you were succesfull in intializing your directory and have now made it a "repo". (If you want to double check use `git status` and it should say `on branch master`)  
 
+#### How To Make a Repository in github  
 
+#### How To Make a file in c9  
+1. Now that you have a repo you probably want to put files inisde of it.
+2. Now if you have already typed git status you should know that the next step is that you need to use `git add` to track the repo and
 
 ---
 ## Workflow & Commands
