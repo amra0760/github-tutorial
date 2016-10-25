@@ -21,6 +21,21 @@
 5. Then go back to github.com and click on "Free Account"
 6. To finalize making your github account click on "Finish Sign Up"
 
+#### How to Connect your Github Account to Cloud 9  
+1. First you go to [c9.io](c9.io)  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/go%20to%20c9.PNG?_c9_id=livepreview14&_c9_host=https://ide.c9.io)  
+2. Then you press on the github icon  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/github%20sign%20in.PNG?_c9_id=livepreview15&_c9_host=https://ide.c9.io)  
+3. Then you sign in with your username that you made earlier on github  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/github%20sign%20in%202.PNG?_c9_id=livepreview16&_c9_host=https://ide.c9.io)  
+4. Then you press on the gear icon in the top right corner of the page  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/gear%20icon.PNG?_c9_id=livepreview17&_c9_host=https://ide.c9.io)  
+5. Then you click on connected services  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/connected%20services.PNG?_c9_id=livepreview18&_c9_host=https://ide.c9.io)  
+6. Then you click on connect next to github  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/connect%20to%20github.PNG?_c9_id=livepreview19&_c9_host=https://ide.c9.io)  
+7. Now your connected!
+
 
 ---
 ## Repository Setup
