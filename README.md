@@ -36,6 +36,26 @@
 ![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/connect%20to%20github.PNG?_c9_id=livepreview19&_c9_host=https://ide.c9.io)  
 7. Now your connected!
 
+#### How to Create an SSH key between Github & Cloud
+1. Go to [Github.com](github.com)  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%208.34.34%20AM.png?_c9_id=livepreview0&_c9_host=https://ide.c9.io)    
+2. Sign in
+3. Click on your profile icon on the top right
+4. Then click on settings
+5. Go to the left sidebar and click on "SSH and GPG keys"
+6. Click on "New SSH key"
+7. Make the title _cloud9_
+8. Now go back to cloud9
+9. Click on the gear icon in the top right corner
+10. Click on "SSH Keys"
+11. Copy the SSH Key given
+12. Then go back to github.com and paste the SSH key
+13. Then add the SSH Key
+14. Now go back to cloud9 again and open "github-learning IDE"
+15. Then type in `ssh -T git@github.com`
+16. Finally a messageshould come up that say that it worked but you dont have shell access
+17. CONGRATUTLATIONS YOU HAVE NOW MADE A SSH KEY BETWEEN Github and Cloud9!
+
 
 ---
 ## Repository Setup
