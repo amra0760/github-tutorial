@@ -13,7 +13,7 @@
 1. First you go to [Github.com](github.com)  
 ![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%208.34.34%20AM.png?_c9_id=livepreview0&_c9_host=https://ide.c9.io)    
 2. Then you set a username and password (HSTAT students use your hstat email and password) ***If you recieved a error message just ignore it***  
-![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/Github%20Account.PNG) ![What it looks like for hstat students](https://preview.c9users.io/amra0760/github-learning/github-tutorial/Github%20Account%20(HSTAT).PNG?_c9_id=livepreview5&_c9_host=https://ide.c9.io)  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/Github%20Account.PNG?_c9_id=livepreview20&_c9_host=https://ide.c9.io) ![What it looks like for hstat students](https://preview.c9users.io/amra0760/github-learning/github-tutorial/Github%20Account%20(HSTAT).PNG?_c9_id=livepreview5&_c9_host=https://ide.c9.io)  
 3. Check your email for verfication from github  
 ![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/Email%20Verification.PNG?_c9_id=livepreview6&_c9_host=https://ide.c9.io)  
 4. Open and Click verify!  
