@@ -71,8 +71,9 @@
 #### How To Make a Repository in github  
 
 #### How To Make a file in c9  
-1. Now that you have a repo you probably want to put files inisde of it. The syntax for it is `touch (filename)`.    
-3. Now if you have already typed git status you should know that the next step is that you need to use `git add` to track the repo and that is your next step  
+1. Now that you have a repo you probably want to put files inisde of it. The syntax for it is `touch (filename)`.  
+2. If you have already typed git status you should know that the next step is that you need to use `git add` to track the repo and that is your next step
+3. Now you commit using `commit -m "(message)"
 
 ---
 ## Workflow & Commands  
@@ -84,4 +85,4 @@
 5. `git push` - This will push or save your changes/commits of your local repo up to the remote repo/orgin master.  
 6. `git diff` - This will check the difference between your last commit and your previous commits. THe stuff that you took out will have a (-) sign next to it and the things that you have inserted will have a (+) next to it.  
 7. `git log` - This previews all the commits you have commited so far.  
-8. `rm -rf .git` - This can delete a repo, directory, or file with whatevers is in it. THis is also usedc to unstage a file.
+8. `rm -rf .git` - This can delete a repo, directory, or file with whatevers is in it. This is also used to unstage a file.
