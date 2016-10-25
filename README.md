@@ -71,8 +71,8 @@
 #### How To Make a Repository in github  
 
 #### How To Make a file in c9  
-1. Now that you have a repo you probably want to put files inisde of it.
-2. Now if you have already typed git status you should know that the next step is that you need to use `git add` to track the repo and
+1. Now that you have a repo you probably want to put files inisde of it. The syntax for it is `touch (filename)`.    
+3. Now if you have already typed git status you should know that the next step is that you need to use `git add` to track the repo and that is your next step  
 
 ---
 ## Workflow & Commands  
