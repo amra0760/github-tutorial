@@ -77,12 +77,12 @@
 
 ---
 ## Workflow & Commands  
-#### Here are some commands that you should familiarize yourself with while using git  
+#### Here are some commands that you should familiarize yourself with while using git:  
 1. `git status` - This is one of the most helpful commands there are out there. Feel free to use this command whenever and wherever you want because it only checks the condition or the status you are in right now.    
-2. `git init` - This when used inside a directory will intialize it for version control which means that it will make the tools ready to get utilized.  
+2. `git init` - This, when used inside a directory, will intialize it for version control which means that it will make the tools ready to get utilized.  
 3. `git add` - This adds your file to the staging area
 4. `git commit -m` - This command will take a snapshot of the all the files on the staging area so far and will also label it with a message. The point of the message is so that you can see what you have added or deleted or changed.  
 5. `git push` - This will push or save your changes/commits of your local repo up to the remote repo/orgin master.  
-6. `git diff` - This will check the difference between your last commit and your previous commits. THe stuff that you took out will have a (-) sign next to it and the things that you have inserted will have a (+) next to it.  
+6. `git diff` - This will check the difference between your last commit and your previous commits. The stuff that you took out will have a (-) sign next to it and the things that you have inserted will have a (+) next to it.  
 7. `git log` - This previews all the commits you have commited so far.  
 8. `rm -rf .git` - This can delete a repo, directory, or file with whatevers is in it. This is also used to unstage a file.
