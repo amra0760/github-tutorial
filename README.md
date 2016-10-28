@@ -69,11 +69,19 @@
 6. Now what you want to do is intialize your directory and you do this by simply typing `git init`. Now you should see your directory's name with the word "master" in parenthesis nex to it. That means that you were succesfull in intializing your directory and have now made it a "repo". (If you want to double check use `git status` and it should say `on branch master`)  
 
 #### How To Make a Repository in github  
+1. First go to [Github.com](github.com)  
+![](https://preview.c9users.io/amra0760/github-learning/github-tutorial/Screen%20Shot%202016-10-24%20at%208.34.34%20AM.png?_c9_id=livepreview0&_c9_host=https://ide.c9.io)
+2. At the top right corner of the page, click on the (+) plus sign
+3. Now click on "New repository"
+4. When you are asked to make a title for your repository make sure that it matches the name of your repository exactly.
+5. Now click on "Create repository"
+6. Finally check your email to verify the email that github has sent to you.
 
 #### How To Make a file in c9  
 1. Now that you have a repo you probably want to put files inisde of it. The syntax for it is `touch (filename)`.  
 2. If you have already typed git status you should know that the next step is that you need to use `git add` to track the repo and that is your next step
 3. Now you commit using `commit -m "(message)"
+4. Finally you use `git push` to save it to your github repository as well.
 
 ---
 ## Workflow & Commands  
